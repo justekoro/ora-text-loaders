@@ -1,7 +1,7 @@
 # ora-text-loaders
 Create cool ora spinners with text inside.
 
-![Examples](assets/examples.gif)
+![Examples](https://raw.githubusercontent.com/korobaka/ora-text-loaders/master/assets/examples.gif)
 
 ## Installation
 You can install the package with [npm](https://npmjs.com) or [yarn](https://yarnpkg.com).
