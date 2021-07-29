@@ -1,0 +1,16 @@
+{
+  "name": "ora-text-loaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.minified.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ora": "^5.4.1"
+  },
+  "dependencies": {}
+}

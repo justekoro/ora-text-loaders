@@ -1,0 +1,5 @@
+examples/*
+index.js
+assets/*
+README.md
+node_modules/*
